@@ -1,0 +1,3 @@
+Este es un archivo de texto plano. Si lo puedes leer es que lo pudiste abrir
+Tiene diferentes lineas de pruebas
+Para comprobar que se puede leer linea por linea
